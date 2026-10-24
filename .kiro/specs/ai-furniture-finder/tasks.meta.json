@@ -1,0 +1,281 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold the Next.js project and shared domain types": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861700859
+      },
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861714413
+      },
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861873434
+      }
+    ],
+    "2.1 Define provider interfaces": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861702786
+      }
+    ],
+    "2.2 Implement DEMO provider fallbacks": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861703733
+      }
+    ],
+    "2.3 Implement ProviderRegistry credential resolution": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861703845
+      }
+    ],
+    "3. Build the capabilities endpoint and demonstration-mode banner": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861703996
+      }
+    ],
+    "4. Build homepage and responsive app layout": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704124
+      }
+    ],
+    "5.1 Implement upload validation and metadata stripping": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704219
+      }
+    ],
+    "5.2 Implement signed-URL storage and deletion": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704302
+      }
+    ],
+    "5.3 Wire the upload API route and upload UI": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704386
+      }
+    ],
+    "6. Implement furniture category and placement selection": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704468
+      }
+    ],
+    "7.1 Implement `toMillimeters` and measurement validation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704557
+      }
+    ],
+    "8.1 Implement `buildMeasurementForm` and confidence derivation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704641
+      }
+    ],
+    "8.2 Build the measurement form UI with diagrams and navigation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704786
+      }
+    ],
+    "9. Implement search filter UI and criteria validation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861704914
+      }
+    ],
+    "10.1 Wire the DEMO search path end-to-end": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705003
+      }
+    ],
+    "10.2 Build the responsive results gallery": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705083
+      }
+    ],
+    "11. Checkpoint — Phase 1 foundation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705167
+      }
+    ],
+    "12.1 Implement `AmazonCommerceProvider`": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705251
+      }
+    ],
+    "13.1 Implement `normalizeProduct`": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705320
+      }
+    ],
+    "14.1 Implement completeness, cap, and minimum checks": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705402
+      }
+    ],
+    "14.2 Implement strict filters, FitStatus assignment, and ranking": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705486
+      }
+    ],
+    "15.1 Implement `resolveOutboundUrl`": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705590
+      }
+    ],
+    "16. Build product detail pages and empty-result handling": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705667
+      }
+    ],
+    "17. Checkpoint — Phase 2 real search": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705759
+      }
+    ],
+    "18.1 Implement `VisionProvider` live binding and `RoomAnalysisService.analyze`": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705840
+      }
+    ],
+    "18.2 Wire the analyze API route and room-analysis UI": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861705916
+      }
+    ],
+    "19. Implement the live ImageGenProvider": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706000
+      }
+    ],
+    "20.1 Implement enqueue and per-product job rows": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706299
+      }
+    ],
+    "20.2 Implement the worker with failure isolation and state machine": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706474
+      }
+    ],
+    "20.3 Implement cancel and retry": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706610
+      }
+    ],
+    "21. Implement visualization status polling and gallery integration": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706757
+      }
+    ],
+    "22. Checkpoint — Phase 3 visualization": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861706884
+      }
+    ],
+    "23. Implement product comparison": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707014
+      }
+    ],
+    "24.1 Implement Session_Service persistence": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707208
+      }
+    ],
+    "24.2 Implement optional accounts and deletion": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707360
+      }
+    ],
+    "25. Implement performance caching and signed-URL TTL bounds": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707483
+      }
+    ],
+    "27. Add `.env.example` and setup/deployment documentation": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707602
+      }
+    ],
+    "28. Final checkpoint — all phases": [
+      {
+        "executionId": "440923e8-0a84-4ded-9f60-fa49ba241e26",
+        "chatSessionId": "sess_3dd928ef-883e-41bc-95d2-8c656d4de523",
+        "timestamp": 1792861707732
+      }
+    ]
+  }
+}
